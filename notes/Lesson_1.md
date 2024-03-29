@@ -3,11 +3,12 @@
 ## Notebook
 
 - [Jupyter Notebook](../code/L1-Keyword_Search.ipynb)
-- We will connect to remote Weaviate database.
+- We will connect to remote [Weaviate vector database](https://weaviate.io/developers/weaviate).
 - Each row contains a passage in Wikipedia.
 - Total records: 10 million
 - Algorithm used: BM25
-- [python-dotenv](https://pypi.org/project/python-dotenv/)
+- Libraries used:
+  - [python-dotenv](https://pypi.org/project/python-dotenv/)
 - [Cohere API keys](https://dashboard.cohere.com/api-keys)
 
 ## Search at a high level
